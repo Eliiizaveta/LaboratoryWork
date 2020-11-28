@@ -1,0 +1,13 @@
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\bin\Debug\netcoreapp3.1\PlantSpecies.exe
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\bin\Debug\netcoreapp3.1\PlantSpecies.deps.json
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\bin\Debug\netcoreapp3.1\PlantSpecies.runtimeconfig.json
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\bin\Debug\netcoreapp3.1\PlantSpecies.runtimeconfig.dev.json
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\bin\Debug\netcoreapp3.1\PlantSpecies.dll
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\bin\Debug\netcoreapp3.1\PlantSpecies.pdb
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\obj\Debug\netcoreapp3.1\PlantSpecies.AssemblyInfoInputs.cache
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\obj\Debug\netcoreapp3.1\PlantSpecies.AssemblyInfo.cs
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\obj\Debug\netcoreapp3.1\PlantSpecies.csproj.CoreCompileInputs.cache
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\obj\Debug\netcoreapp3.1\PlantSpecies.dll
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\obj\Debug\netcoreapp3.1\PlantSpecies.pdb
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\obj\Debug\netcoreapp3.1\PlantSpecies.genruntimeconfig.cache
+C:\Users\Liza\source\repos\PlantSpecies\PlantSpecies\obj\Debug\netcoreapp3.1\PlantSpecies.csprojAssemblyReference.cache
