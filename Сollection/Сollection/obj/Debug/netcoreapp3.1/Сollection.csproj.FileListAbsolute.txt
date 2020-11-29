@@ -1,0 +1,13 @@
+C:\Users\Liza\source\repos\Сollection\Сollection\obj\Debug\netcoreapp3.1\Сollection.csprojAssemblyReference.cache
+C:\Users\Liza\source\repos\Сollection\Сollection\obj\Debug\netcoreapp3.1\Сollection.AssemblyInfoInputs.cache
+C:\Users\Liza\source\repos\Сollection\Сollection\obj\Debug\netcoreapp3.1\Сollection.AssemblyInfo.cs
+C:\Users\Liza\source\repos\Сollection\Сollection\obj\Debug\netcoreapp3.1\Сollection.csproj.CoreCompileInputs.cache
+C:\Users\Liza\source\repos\Сollection\Сollection\bin\Debug\netcoreapp3.1\Сollection.exe
+C:\Users\Liza\source\repos\Сollection\Сollection\bin\Debug\netcoreapp3.1\Сollection.deps.json
+C:\Users\Liza\source\repos\Сollection\Сollection\bin\Debug\netcoreapp3.1\Сollection.runtimeconfig.json
+C:\Users\Liza\source\repos\Сollection\Сollection\bin\Debug\netcoreapp3.1\Сollection.runtimeconfig.dev.json
+C:\Users\Liza\source\repos\Сollection\Сollection\bin\Debug\netcoreapp3.1\Сollection.dll
+C:\Users\Liza\source\repos\Сollection\Сollection\bin\Debug\netcoreapp3.1\Сollection.pdb
+C:\Users\Liza\source\repos\Сollection\Сollection\obj\Debug\netcoreapp3.1\Сollection.dll
+C:\Users\Liza\source\repos\Сollection\Сollection\obj\Debug\netcoreapp3.1\Сollection.pdb
+C:\Users\Liza\source\repos\Сollection\Сollection\obj\Debug\netcoreapp3.1\Сollection.genruntimeconfig.cache
